@@ -1,2 +1,2 @@
 # MTM-infographic
-MTM
+MTM infographic
